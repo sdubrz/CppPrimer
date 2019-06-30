@@ -14,8 +14,33 @@ int typeChangeTest() {
 }
 
 
+int unsignedtest() {
+	//练习2.3 测试无符号数的相关转化问题
+	unsigned u = 10;
+	int u2 = 42;
+
+	cout << u - u2 << endl;  //4294967264
+	cout << u2 - u << endl;  //32
+
+	return 0;
+}
+
+
+int referenceTest() {
+	//练习2.17 引用的使用测试
+	int i, &ri = i;
+	i = 5;
+	ri = 10;
+	cout << i << "\t" << ri << endl;  // 输出的结果都是10
+	return 0;
+}
+
+
 int main() {
-	typeChangeTest();
+	//typeChangeTest();
+
+	//unsignedtest();
+	referenceTest();
 
 	int i;
 	cin >> i;
