@@ -56,13 +56,13 @@ int printInt() {
 
 
 
-int main() {
-	
-	add50to100();
-	print10to0();
-	printInt();
-
-	int i;
-	cin >> i;
-	return 0;
-}
+//int main() {
+//	
+//	add50to100();
+//	print10to0();
+//	printInt();
+//
+//	int i;
+//	cin >> i;
+//	return 0;
+//}

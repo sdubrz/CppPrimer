@@ -16,10 +16,16 @@
     <Filter Include="源文件\Ch01">
       <UniqueIdentifier>{4c4afa9c-cfd8-4fe2-834a-9442ff185cdf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Ch02">
+      <UniqueIdentifier>{e1840b5a-44ff-4f43-a5d5-b53536aada97}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hello.cpp">
       <Filter>源文件\Ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="typeChangecpp.cpp">
+      <Filter>源文件\Ch02</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
