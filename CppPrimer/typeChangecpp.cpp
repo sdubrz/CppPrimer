@@ -36,13 +36,13 @@ int referenceTest() {
 }
 
 
-int main() {
-	//typeChangeTest();
-
-	//unsignedtest();
-	referenceTest();
-
-	int i;
-	cin >> i;
-	return 0;
-}
+//int main() {
+//	//typechangetest();
+//
+//	//unsignedtest();
+//	referencetest();
+//
+//	int i;
+//	cin >> i;
+//	return 0;
+//}

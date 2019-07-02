@@ -19,6 +19,9 @@
     <Filter Include="源文件\Ch02">
       <UniqueIdentifier>{e1840b5a-44ff-4f43-a5d5-b53536aada97}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Ch03">
+      <UniqueIdentifier>{8cd73f41-ab44-4256-85a0-312699909e66}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hello.cpp">
@@ -26,6 +29,9 @@
     </ClCompile>
     <ClCompile Include="typeChangecpp.cpp">
       <Filter>源文件\Ch02</Filter>
+    </ClCompile>
+    <ClCompile Include="StringTest.cpp">
+      <Filter>源文件\Ch03</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
