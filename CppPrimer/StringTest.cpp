@@ -69,15 +69,15 @@ int removePunct() {
 }
 
 
-int main() {
-
-	//getLineTest();
-	//sizeTest();
-	//replaceByX();
-	removePunct();
-
-	int i;
-	cin >> i;
-
-	return 0;
-}
+//int main() {
+//
+//	//getlinetest();
+//	//sizetest();
+//	//replacebyx();
+//	removepunct();
+//
+//	int i;
+//	cin >> i;
+//
+//	return 0;
+//}

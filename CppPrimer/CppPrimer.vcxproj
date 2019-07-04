@@ -116,8 +116,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Hello.cpp" />
+    <ClCompile Include="IteratorTest.cpp" />
     <ClCompile Include="StringTest.cpp" />
     <ClCompile Include="typeChangecpp.cpp" />
+    <ClCompile Include="VectorTest.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
