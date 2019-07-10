@@ -33,10 +33,10 @@ int vector_multi_2() {
 }
 
 
-int main() {
-	vector_multi_2();
-
-	string str;
-	getline(cin, str);
-	return 0;
-}
+//int main() {
+//	vector_multi_2();
+//
+//	string str;
+//	getline(cin, str);
+//	return 0;
+//}
