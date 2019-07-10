@@ -17,6 +17,7 @@ int c_style_string() {
 	return 0;
 }
 
+
 int main() {
 	c_style_string();
 
