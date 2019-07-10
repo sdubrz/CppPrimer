@@ -18,12 +18,12 @@ int c_style_string() {
 }
 
 
-int main() {
-	c_style_string();
-
-	int i = 0;
-	cin >> i;
-
-	return 0;
-
-}
+//int main() {
+//	c_style_string();
+//
+//	int i = 0;
+//	cin >> i;
+//
+//	return 0;
+//
+//}

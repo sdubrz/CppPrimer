@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="ArrayTest.cpp" />
     <ClCompile Include="Hello.cpp" />
+    <ClCompile Include="IfElseTest.cpp" />
     <ClCompile Include="IteratorTest.cpp" />
     <ClCompile Include="StringTest.cpp" />
     <ClCompile Include="typeChangecpp.cpp" />

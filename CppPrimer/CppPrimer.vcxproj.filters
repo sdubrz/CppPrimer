@@ -22,6 +22,9 @@
     <Filter Include="源文件\Ch03">
       <UniqueIdentifier>{8cd73f41-ab44-4256-85a0-312699909e66}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Ch04">
+      <UniqueIdentifier>{27643dae-a5d9-4b10-9819-bcbc055ca808}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hello.cpp">
@@ -41,6 +44,9 @@
     </ClCompile>
     <ClCompile Include="ArrayTest.cpp">
       <Filter>源文件\Ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="IfElseTest.cpp">
+      <Filter>源文件\Ch04</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
